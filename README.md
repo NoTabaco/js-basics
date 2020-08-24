@@ -1,3 +1,3 @@
-# Repository for js-basics.
+# Repository for js-basics
 
-With VanillaJS
+With VanillaJS.
